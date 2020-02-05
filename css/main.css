@@ -17,13 +17,12 @@ html {
   box-sizing: inherit;
 }
 
-
 body {
   margin: 0;
 }
 
 .watermelon {
-  background-color: #e97865
+  background-color: #e97065;
 }
 
 .watermelon h2 {
@@ -42,6 +41,6 @@ body {
   background-color: #e86033;
 }
 
-.starfruit h2 {
+.persimmon h2 {
   font-family: Comfortaa, cursive;
 }
